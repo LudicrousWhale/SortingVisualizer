@@ -1,0 +1,23 @@
+.array-container {
+    position: absolute;
+    left: 350px;
+}
+
+.array-bar {
+    width: 2px;
+    background-color: mediumseagreen;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.generate {
+    position: absolute;
+    justify-content: center;
+    top: 30px;
+}
+
+.generate-merge {
+    position: absolute;
+    justify-content: center;
+    top: 70px;
+}
